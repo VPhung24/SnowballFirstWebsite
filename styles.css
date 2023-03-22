@@ -1,0 +1,18 @@
+body {
+    background-color: #3391FF;
+}
+
+div {
+    background-color: #3391FF;
+}
+
+img {
+    width: 80vw;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
